@@ -283,8 +283,7 @@ public class GameManager : MonoBehaviour
         OnMiss?.Invoke();
     }
 
-    public void GitTest()
-    {
-
+    public void GitTest() {
+        float test = 0f;
     }
 }
