@@ -1,2 +1,2 @@
 # CrystalCrush
-games
+game
